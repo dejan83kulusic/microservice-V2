@@ -1,0 +1,9 @@
+spring.devtools.add-properties=false
+spring.application.name=limits-service
+spring.config.import=configserver:http://localhost:8888
+spring.profiles.active=dev
+spring.cloud.config.profile=dev
+#spring.cloud.config.name=
+limits-service.minimum=3
+limits-service.maximum=997
+

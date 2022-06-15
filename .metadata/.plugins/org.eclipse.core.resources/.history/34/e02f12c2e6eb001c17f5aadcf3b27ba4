@@ -1,0 +1,13 @@
+package com.example.dejan.springsloudconfigserver;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringSloudConfigServerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringSloudConfigServerApplication.class, args);
+	}
+
+}

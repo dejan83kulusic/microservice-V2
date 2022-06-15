@@ -1,0 +1,3 @@
+spring.cloud.config.enabled=false
+spring.application.name=spring-sloud-config-server
+server.port=8888
