@@ -2,6 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\korisnik\Desktop\workspace-for-eclipse\microservices-V2\api-gateay"/>
+			<item value="C:\Users\korisnik\Desktop\workspace-for-eclipse\microservices-V2\naming-server"/>
+			<item value="C:\Users\korisnik\Desktop\workspace-for-eclipse\microservices-V2\currency-conversion-service"/>
+			<item value="C:\Users\korisnik\Desktop\workspace-for-eclipse\microservices-V2\currency-exchange-service"/>
 			<item value="C:\Users\korisnik\Desktop\workspace-for-eclipse\microservices-V2\spring-sloud-config-server"/>
 			<item value="C:\Users\korisnik\Desktop\workspace-for-eclipse\microservices-V2\limits-service"/>
 		</list>

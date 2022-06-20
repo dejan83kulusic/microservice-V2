@@ -1,5 +1,0 @@
-spring.cloud.config.enabled=false 
-limits-service.minimum=3
-limits-service.maximum=997
-
-spring.cloud.config.server.urifile:///C:/Users/korisnik/workspace-for-eclipse/microservices-V2/git-localconfig-repo

@@ -1,2 +1,0 @@
-spring.cloud.config.enabled=false 
-server.port=8888

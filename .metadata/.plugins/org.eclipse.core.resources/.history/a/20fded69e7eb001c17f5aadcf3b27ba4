@@ -1,4 +1,0 @@
-spring.cloud.config.enabled=false 
-limits-service.minimum=3
-limits-service.maximum=997
-
